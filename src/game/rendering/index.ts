@@ -1,0 +1,5 @@
+export { CanvasRenderer } from './CanvasRenderer'
+export { loadGameAssets } from './assets'
+export { getStageLayout, Projection } from './projection'
+export type { GameAssets } from './assets'
+export type { StageLayout } from './projection'
